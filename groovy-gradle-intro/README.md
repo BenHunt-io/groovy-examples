@@ -1,10 +1,12 @@
 Most examples are in `src/test/groovy/junit/**`
 
-### Build via gradle
-`./gradlew build`
+# Running groovy as an application
 
-### Build & Run via Docker
+### Build & Run with traditional main method via Docker
 `./run.sh [args]`
+
+### Build & Run as Groovy Script
+`./runScript.sh [args]`
 
 ### Test
 `./gradlew test`
