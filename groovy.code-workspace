@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "groovy-gradle-intro"
+    },
+    {
+      "path": "./"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
+}
