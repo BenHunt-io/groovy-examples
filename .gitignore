@@ -1,2 +1,5 @@
 groovy-gradle-intro/app/build
 groovy-gradle-intro/app/bin
+
+groovy-integration/app/build
+groovy-integration/app/bin

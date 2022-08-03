@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run groovy script",
+            "type": "shell",
+            "command": "${workspaceFolder}/run.sh ${input:helloworldArgs}",
+            
+        }
+    ],
+    "inputs": [
+        {
+          "description": "Argument to hello world groovy application",
+          "id": "helloworldArgs",
+          "type": "promptString"
+        }
+      ]
+    
+}
